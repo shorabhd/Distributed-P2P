@@ -1,0 +1,8 @@
+Server0;localhost;20000
+Server1;localhost;20001
+Server2;localhost;20003
+Server3;localhost;20004
+Server4;localhost;20005
+Server5;localhost;20006
+Server6;localhost;20007
+Server7;localhost;20008
